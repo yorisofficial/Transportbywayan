@@ -5,6 +5,10 @@
 
 /* preset */
 
+section {
+  max-height: 1000px;
+}
+
 #hero-page {
   z-index: 1;
 }
@@ -145,4 +149,16 @@
 }
 
 /* End Feature */
+
+/* Footer */
+
+.circle-icon {
+  background: var(--color-primary);
+  padding: 10px 10px;
+  font-size: 45px;
+  border-radius: 80px;
+  color: white;
+}
+
+/* End Footer */
 
