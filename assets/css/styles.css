@@ -164,6 +164,11 @@ section {
 
 /* FAQ PAGE */
 
+.faq-pages {
+  background-color: var(--color-primary);
+  color: #ffffff;
+}
+
 .bs-icon {
   --bs-icon-size: .75rem;
   display: flex;
