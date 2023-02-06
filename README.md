@@ -1,7 +1,7 @@
 
 # WAYAN BALI TRANSPORT
 
-## YORIS
+## DEMO WEBSITE
 
 - [PREVIEW](https://yorisofficial.github.io/Transportbywayan/)
 
